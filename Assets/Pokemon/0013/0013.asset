@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5d345c40fbdd4488eb08ca83a23d1d, type: 3}
+  m_Name: 0013
+  m_EditorClassIdentifier: 
+  nationalId: 0013
+  pokeName: Aspicot
+  description: "On le trouve souvent dans les for\xEAts, mangeant des feuilles. Il
+    a un dard venimeux pointu sur la t\xEAte."
+  sprite2D: {fileID: 21300000, guid: 0a8786f497502e54793566c1a41d1984, type: 3}
+  sprite3D: {fileID: 276457085, guid: 2d1ba0ac600846640925ee260b4e4ddf, type: 3}
+  spriteAnimation: {fileID: 9100000, guid: 9a7f8c6693d50b14e8df9980342d67cf, type: 2}
+  height: 0.3
+  weight: 3.2
+  types:
+  - Bug
+  - Poison
+  hp: 40
+  attack: 35
+  defense: 30
+  specialAttack: 20
+  specialDefense: 20
+  speed: 50
+  total: 195

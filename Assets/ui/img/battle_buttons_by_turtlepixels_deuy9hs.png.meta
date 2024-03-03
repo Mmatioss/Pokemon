@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 6b74c94a3f80ab14881a51cccec6ef1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 830
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b575adc3ae554db1a8302604f2c17
+      internalID: 587833880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 830
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df73139505b2a64e8e1def9a4a2417e
+      internalID: 677137522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 784
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0999beb36c1f614d91909b80988fa88
+      internalID: -610912736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 784
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43dd6324feafbc4bbb4a5c346ffb13a
+      internalID: -219057165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 738
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c35824a037c9c499009ba1de375529
+      internalID: -165388086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 738
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644dd766e378e54399d0c5cc52d2abe
+      internalID: 1841707194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 692
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8116cbcd178339498f082c7453497dd
+      internalID: 1249975635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 692
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf969519a229f604488cf83f4e494193
+      internalID: -561957771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 646
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b9fd2494dc359449a9638a40795c7d
+      internalID: -1473921606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 646
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7127106c2e4f47b06e73de6e63ea8
+      internalID: -1392902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6433c6d2480d47e419ffbd09ccb000ad
+      internalID: 1033931195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 600
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd78c52f5986a6a4a8fe6f8cf86299f6
+      internalID: -1872924441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 554
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deeaf3d8a14b01478aa4c95459fb3e2
+      internalID: -1347117267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 554
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6303ab164a0f449e1e699d01c5555
+      internalID: 1348798769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 508
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37b1d23bc7ed1418219f203f023964
+      internalID: -1684087490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 508
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f8fae5bd349ba4b91ae72fc7c826e3
+      internalID: 307509646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 462
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c74dea719347418c2315d028d7afe
+      internalID: 1201083243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 462
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d232267087ae48a33516e7dfa2154
+      internalID: -560622399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9181f438ce094a87ec05bc9812f7d
+      internalID: -1543737907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 416
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a23139035efb48a237216fe5dfc57
+      internalID: 74365308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee018e219327862488ae9ece7f0b5bb8
+      internalID: 1086645784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 370
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3d7cc8b8f4bc498861f7cbee8f1c6
+      internalID: -1463190082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9dd3064b11a6d409f6abf9ab002c1a
+      internalID: -1943473649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 324
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746cd7ab02ec6bf4ea2e050d10f6e593
+      internalID: 1257173020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 278
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b378307a998f46899f0af895985f6
+      internalID: -989349083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 278
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b1566b1dc931542979a02fd9bbece2
+      internalID: -1734938936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77fe3c7dda5c34f95541ba1ec7adff
+      internalID: 1677698193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 232
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd4d1608e6f894691ae36d50501dd7
+      internalID: -587333201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d862f9c9e3395346a0fa52f8952fef6
+      internalID: -1889084012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 186
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7742662870b563489f932aeff1e5240
+      internalID: 1967072596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af738f4d0b40ccf4aa9e40c58686d659
+      internalID: 763077784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 140
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a5ad919a01ea747839e4f95fee9486
+      internalID: -200308730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046cb6b89c3e1f84ea2eb07dfd8d9f90
+      internalID: -917854400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 94
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e1a06546a9064fb4a83f291833729
+      internalID: 458028010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03510d71901ba2242a51239d63ac72cb
+      internalID: 1177204973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3603731f7ed2ea5488b61bfb11cadffe
+      internalID: -1118837671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79238bd5c49044b9c4b264474a1194
+      internalID: 381991956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_buttons_by_turtlepixels_deuy9hs_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eff37e15872874da29a83a9069fa22
+      internalID: 379527176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      battle_buttons_by_turtlepixels_deuy9hs_0: 587833880
+      battle_buttons_by_turtlepixels_deuy9hs_1: 677137522
+      battle_buttons_by_turtlepixels_deuy9hs_10: 1033931195
+      battle_buttons_by_turtlepixels_deuy9hs_11: -1872924441
+      battle_buttons_by_turtlepixels_deuy9hs_12: -1347117267
+      battle_buttons_by_turtlepixels_deuy9hs_13: 1348798769
+      battle_buttons_by_turtlepixels_deuy9hs_14: -1684087490
+      battle_buttons_by_turtlepixels_deuy9hs_15: 307509646
+      battle_buttons_by_turtlepixels_deuy9hs_16: 1201083243
+      battle_buttons_by_turtlepixels_deuy9hs_17: -560622399
+      battle_buttons_by_turtlepixels_deuy9hs_18: -1543737907
+      battle_buttons_by_turtlepixels_deuy9hs_19: 74365308
+      battle_buttons_by_turtlepixels_deuy9hs_2: -610912736
+      battle_buttons_by_turtlepixels_deuy9hs_20: 1086645784
+      battle_buttons_by_turtlepixels_deuy9hs_21: -1463190082
+      battle_buttons_by_turtlepixels_deuy9hs_22: -1943473649
+      battle_buttons_by_turtlepixels_deuy9hs_23: 1257173020
+      battle_buttons_by_turtlepixels_deuy9hs_24: -989349083
+      battle_buttons_by_turtlepixels_deuy9hs_25: -1734938936
+      battle_buttons_by_turtlepixels_deuy9hs_26: 1677698193
+      battle_buttons_by_turtlepixels_deuy9hs_27: -587333201
+      battle_buttons_by_turtlepixels_deuy9hs_28: -1889084012
+      battle_buttons_by_turtlepixels_deuy9hs_29: 1967072596
+      battle_buttons_by_turtlepixels_deuy9hs_3: -219057165
+      battle_buttons_by_turtlepixels_deuy9hs_30: 763077784
+      battle_buttons_by_turtlepixels_deuy9hs_31: -200308730
+      battle_buttons_by_turtlepixels_deuy9hs_32: -917854400
+      battle_buttons_by_turtlepixels_deuy9hs_33: 458028010
+      battle_buttons_by_turtlepixels_deuy9hs_34: 1177204973
+      battle_buttons_by_turtlepixels_deuy9hs_35: -1118837671
+      battle_buttons_by_turtlepixels_deuy9hs_36: 381991956
+      battle_buttons_by_turtlepixels_deuy9hs_37: 379527176
+      battle_buttons_by_turtlepixels_deuy9hs_4: -165388086
+      battle_buttons_by_turtlepixels_deuy9hs_5: 1841707194
+      battle_buttons_by_turtlepixels_deuy9hs_6: 1249975635
+      battle_buttons_by_turtlepixels_deuy9hs_7: -561957771
+      battle_buttons_by_turtlepixels_deuy9hs_8: -1473921606
+      battle_buttons_by_turtlepixels_deuy9hs_9: -1392902311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

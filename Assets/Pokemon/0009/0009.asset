@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5d345c40fbdd4488eb08ca83a23d1d, type: 3}
+  m_Name: 0009
+  m_EditorClassIdentifier: 
+  nationalId: 0009
+  pokeName: Tortank
+  description: "Un Pok\xE9mon brutal avec des jets d'eau sous pression sur sa carapace.
+    Ils sont utilis\xE9s pour les plaquages \u200B\u200B\xE0 grande vitesse."
+  sprite2D: {fileID: 21300000, guid: de0a1100154f4b94a818a2caf5ba3f31, type: 3}
+  sprite3D: {fileID: 1876346150, guid: 2af4c59e6e8adc04195d0d6fd76e927e, type: 3}
+  spriteAnimation: {fileID: 9100000, guid: 3164d3773031e4745bdf724633fede7f, type: 2}
+  height: 1.6
+  weight: 85.5
+  types:
+  - Water
+  hp: 79
+  attack: 83
+  defense: 100
+  specialAttack: 85
+  specialDefense: 105
+  speed: 78
+  total: 530

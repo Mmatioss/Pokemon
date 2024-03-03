@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5d345c40fbdd4488eb08ca83a23d1d, type: 3}
+  m_Name: 0014
+  m_EditorClassIdentifier: 
+  nationalId: 0014
+  pokeName: Coconfort
+  description: "Quasiment incapable de bouger, ce Pok\xE9mon ne peut que durcir sa
+    carapace pour se prot\xE9ger des pr\xE9dateurs"
+  sprite2D: {fileID: 21300000, guid: fb6d204e0a3d2a14b86644ae12f10990, type: 3}
+  sprite3D: {fileID: -128716517, guid: 3165216c91b88af46a24e4a1df928f34, type: 3}
+  spriteAnimation: {fileID: 9100000, guid: c27ec135c94a80b40906073892217239, type: 2}
+  height: 0.6
+  weight: 10
+  types:
+  - Bug
+  - Poison
+  hp: 45
+  attack: 25
+  defense: 50
+  specialAttack: 25
+  specialDefense: 25
+  speed: 35
+  total: 205
