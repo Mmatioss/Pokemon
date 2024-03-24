@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using TMPro;
 
@@ -17,7 +14,7 @@ public class ChangementInfoTop : MonoBehaviour
     public GameObject zoneType2;
     public void Changement()
     {
-        // Change the name of the Pokemon
+       /* // Change the name of the Pokemon
         zoneNamePokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.pokeName;
         // Change the weight of the Pokemon
         zonePoid.GetComponent<TextMeshProUGUI>().text = pokemonData.weight.ToString();
@@ -29,10 +26,13 @@ public class ChangementInfoTop : MonoBehaviour
         zoneSpritePokemon2D.GetComponent<Animator>().runtimeAnimatorController = pokemonData.spriteAnimation;
         // Change the description of the Pokemon
         zoneDescriptionPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.description;
+        zoneIDPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.nationalId.ToString();
+        */
     }
     void Start()
     {
         this.GetComponent<UnityEngine.UI.Button>().onClick.AddListener(Changement);
+        Changement();
     }
     void Update()
     {
