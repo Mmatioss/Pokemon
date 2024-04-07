@@ -4,18 +4,19 @@ using System;
 using System.Linq;
 using Random = System.Random;
 using System.Threading;
+using JetBrains.Annotations;
 
 [Serializable]
 public class pokemonData
 {
     [SerializeField]
-    private Info info;
+    public Info info;
     [SerializeField]
     private Stats stats;
     private int currentHp;
     private int statsPoints;
     [SerializeField]
-    private pokemonData[] PokemonOpponent;
+    private PokemonData[] PokemonOpponent;
 
     [Serializable]
     public struct Stats
@@ -53,7 +54,7 @@ public class pokemonData
     {
         InitCurrentLife();
         InitStatsPoints();
-        DelayAttack();
+        //DelayAttack();
     }
 
     void InitCurrentLife()
@@ -90,7 +91,7 @@ public class pokemonData
         }
     }
 
-    void AttackOpponent()
+    /*void AttackOpponent()
     {
         if (IsPokemonAlive()==true && PokemonOpponent[0].IsPokemonAlive()==true)
         {
@@ -99,10 +100,10 @@ public class pokemonData
         {
             Debug.Log("Le pokemon ne peut plus attaquer");
         }
-    }
+    }*/
 
     Random rnd = new Random();
-    void DelayAttack()
+    /*void DelayAttack()
     {
         AttackOpponent();
         if (PokemonOpponent[0].IsPokemonAlive()==true)
@@ -110,5 +111,5 @@ public class pokemonData
             int num = rnd.Next(1250,3100);
             Thread.Sleep(num);
         }
-    }
+    }*/
 }

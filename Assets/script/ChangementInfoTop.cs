@@ -3,7 +3,6 @@ using TMPro;
 
 public class ChangementInfoTop : MonoBehaviour
 {
-    public PokedexPokemonData pokemonData;
     public GameObject zoneSpritePokemon2D;
     public GameObject zoneIDPokemon;
     public GameObject zoneNamePokemon;
@@ -12,22 +11,31 @@ public class ChangementInfoTop : MonoBehaviour
     public GameObject zoneTaille;
     public GameObject zoneType1;
     public GameObject zoneType2;
+
+    public PokemonDataManager pokemonData;
+
+    private pokemonData GetData(int id)
+    {
+        return pokemonData.data[id];
+    }
+
     public void Changement()
     {
-       /* // Change the name of the Pokemon
-        zoneNamePokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.pokeName;
+
+        // Change the name of the Pokemon
+        //zoneNamePokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.data.Info.pokeName;
         // Change the weight of the Pokemon
-        zonePoid.GetComponent<TextMeshProUGUI>().text = pokemonData.weight.ToString();
+        //zonePoid.GetComponent<TextMeshProUGUI>().text = pokemonData.weight.ToString();
         // Change the height of the Pokemon
-        zoneTaille.GetComponent<TextMeshProUGUI>().text = pokemonData.height.ToString();
+        //zoneTaille.GetComponent<TextMeshProUGUI>().text = pokemonData.height.ToString();
         // Change the type of the Pokemon
         // Change the sprite of the Pokemon
-        zoneSpritePokemon2D.GetComponent<UnityEngine.UI.Image>().sprite = pokemonData.sprite3D;
-        zoneSpritePokemon2D.GetComponent<Animator>().runtimeAnimatorController = pokemonData.spriteAnimation;
+        //zoneSpritePokemon2D.GetComponent<UnityEngine.UI.Image>().sprite = pokemonData.sprite3D;
+        //zoneSpritePokemon2D.GetComponent<Animator>().runtimeAnimatorController = pokemonData.spriteAnimation;
         // Change the description of the Pokemon
-        zoneDescriptionPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.description;
-        zoneIDPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.nationalId.ToString();
-        */
+        //zoneDescriptionPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.description;
+        //zoneIDPokemon.GetComponent<TextMeshProUGUI>().text = pokemonData.nationalId.ToString();
+
     }
     void Start()
     {
